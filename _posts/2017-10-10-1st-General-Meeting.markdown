@@ -28,4 +28,4 @@ These will be:
 		
 These positions are largely formal requirements but any resident is welcome to be a candidate if they wish to do so.
  
-You can read the proposed 
+You can read the proposed consitution online, it will be posted here in the next 24 hours.
