@@ -28,4 +28,10 @@ These will be:
 		
 These positions are largely formal requirements but any resident is welcome to be a candidate if they wish to do so.
  
-You can read the proposed consitution online, it will be posted here in the next 24 hours.
+You can read the proposed consitution online:
+<ul>
+	<li><a href="/site/files/Draft%20Constitution%202017">HTML</a></li>
+	<li><a href="/site/files/Draft%20Constitution%202017.txt">Plain Text</a></li>
+</ul>
+	
+We hope to see you there!
