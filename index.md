@@ -6,4 +6,5 @@ layout: home
 redirect_from: 
   -  "/site"
   -  "/site/"
+  -  "site/"
 ---
