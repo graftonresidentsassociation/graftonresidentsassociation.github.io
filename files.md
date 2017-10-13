@@ -16,8 +16,8 @@ permalink: /files/
 <ul>
 	
 
-	<li><a href="/site/files/Constitution.txt">Constitution for 2017 Grafton Residents Association</a></li>
-	<!--<li><a href="/site/files/1984%20Constitution%20formatted.html">Original Draft Constitution of the 1984 Grafton Residents Association</a></li>-->
+	<li><a href="/files/Constitution.txt">Constitution for 2017 Grafton Residents Association</a></li>
+	<!--<li><a href="/files/1984%20Constitution%20formatted.html">Original Draft Constitution of the 1984 Grafton Residents Association</a></li>-->
 </ul>
 
 

@@ -42,8 +42,8 @@ Further details of our current plan of action will be appearing on Lyra.
 {% comment %}
 You can read the proposed consitution online:
 <ul>
-	<li><a href="/site/files/Draft%20Constitution%202017">HTML</a></li>
-	<li><a href="/site/files/Draft%20Constitution%202017.txt">Plain Text</a></li>
+	<li><a href="/files/Draft%20Constitution%202017">HTML</a></li>
+	<li><a href="/files/Draft%20Constitution%202017.txt">Plain Text</a></li>
 </ul>
 We hope to see you there!
 {% endcomment %}
