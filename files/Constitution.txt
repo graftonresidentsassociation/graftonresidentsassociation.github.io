@@ -10,15 +10,15 @@ Adopted on: [12th October 2017]
 
 	For the purposes of this document, it will be referred to as 'the Association'.
 	It shall act to represent the interests of the residents of the Grafton Centre flats 
-	(Christchurch street and Buleigh Place, Cambridge).
+	(Christchurch Street and Burleigh Place, Cambridge).
 
 2. The aims of the Association shall be to:
 
 	a) Assist in the protection of the legal and statutory rights of members 
 	and to collectively promote their legal, social and financial interests.
 
-	b) To seek improvement of the social existence, environmental health, 
-	personal health and general well-being of members, specifically 
+	b) To seek improvement of the social existence, environmental and
+	personal health, and the general well-being of members, specifically 
 	“asserting members' rights to the quiet enjoyment of their homes”.
 
 	c) In pursuit of the above aims, to associate with whatever statutory 
@@ -28,17 +28,17 @@ Adopted on: [12th October 2017]
 
 3. The Short-Term Aims of the Association shall be:
 	
-	a) Working with Cambridge Environmental Health and any other organisation 
-	necessary to enforce upon ISG construction the terms agreed in the planning 
+	a) Working with Cambridge City Council and any other organisation 
+	necessary to enforce upon building contractors the terms agreed in the planning 
 	permission for the currently ongoing works to the Grafton Centre.
 
 	b) The association shall seek monetary compensation for the violation of the 
-	members' inalienable right to the quiet enjoyment of their homes homes since 
+	members' inalienable right to the quiet enjoyment of their homes since 
 	work commenced.
 
 	c) The association shall seek to have the weekly fire alarm tests preferably 
-	eliminated or moved to a time when the fewest residents are expected
-	to be aggravated by this event.
+	eliminated or reduced in length and moved to a time when the fewest residents 
+	are expected to be aggravated by this event.
 
 
 4. Membership
@@ -74,18 +74,18 @@ Adopted on: [12th October 2017]
 
 	e) In-person voting at General meetings shall be by show of hands. 
 	This number shall be added to the received number of proxy votes. 
-	If there is a tied vote, then the Chairperson shall have a second vote. 
+	If there is a tied vote, then the Chairperson shall the casting vote. 
 
 	f) Should the committee fail to agree on any course of action, the 
 	matter shall be referred to a General Meeting.
 
-	g) The Association may by a two-thirds majority vote and for a good 
+	g) The Association may: by a two-thirds majority vote and for a good 
 	and proper reason remove any Committee member, provided that person 
 	has the right to be heard before a final decision is made.
 
 	h) Should vacancies occur in the Committee a General Meeting shall be called to fill them.
 
-	i) The Committee shall undertake to keep memebers properly informed 
+	i) The Committee shall undertake to keep members properly informed 
 	of its activities on behalf of the Association and provide at all 
 	reasonable times access for inspection of the files and records of the Association.
 
@@ -125,10 +125,8 @@ Adopted on: [12th October 2017]
 	to further the objects of the Association and for no other purpose.
 	
 	b) The Treasurer shall keep proper account of the finances of the Association 
-	and shall open a bank account in its name.
+	and may open a bank account in its name as necessary.
 	
-	c) The accounts shall be audited annually by a qualified auditor.
-
 
 10. Alterations to the Constitution:
 
@@ -142,3 +140,8 @@ Adopted on: [12th October 2017]
 
 	Where a fraction of the membership is used as the quora for voting, 
 	wherever this fraction is not a whole number, the number shall be rounded down.
+
+
+Chair		Dan Underwood
+Secretary	Kerry O'Callaghan
+Treasurer	Corsten Douglas
